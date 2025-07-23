@@ -18,6 +18,6 @@ Welcome to my portfolio website! I'm Praveen Manimaran, a Data Scientist with a 
 ## Connect
 Feel free to explore my work, check out the code, or get in touch if you'd like to collaborate!
 
-🌐 [Website](https://praveenmanimaranucsd.github.io/portfolio)  
+🌐 [Website](praveenmanimaran.github.io)  
 📫 [Email](mailto:praveenmanimaran@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/praveenmanimaran)
