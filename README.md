@@ -19,5 +19,5 @@ Welcome to my portfolio website! I'm Praveen Manimaran, a Data Scientist with a 
 Feel free to explore my work, check out the code, or get in touch if you'd like to collaborate!
 
 🌐 [Website](praveenmanimaran.github.io)  
-📫 [Email](mailto:praveenmanimaran@gmail.com)  
+📫 [Email](mailto:praveenmanimaran61@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/praveenmanimaran)
