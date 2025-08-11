@@ -2650,6 +2650,17 @@ input, select, textarea {
 				margin-right: auto;
 			}
 
+		/* Make the featured project image substantially larger */
+		.post.featured .image.main img {
+			width: 90%;
+		}
+
+		@media screen and (max-width: 980px) {
+			.post.featured .image.main img {
+				width: 100%;
+			}
+		}
+
 		@media screen and (max-width: 736px) {
 
 			.image.fit {
